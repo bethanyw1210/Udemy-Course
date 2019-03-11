@@ -1,0 +1,4 @@
+You're in a long, brightly lit hallway. There are eight guards armed with light rifles on both sides of the hallway. You are surrounded with no weapon. What do you do?
+1) Try to fight all 8 of them
+2) Evade and run from them
+3) Surrender peacefully. You know there's no way you could get out of this.
