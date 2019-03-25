@@ -16,4 +16,9 @@ MonoBehaviour:
     could try to fight them, but there are eight of them and I have no weapon... I
     could also use my agility to may advantage and try to escape. \n\nWhat should
     I do?\n1) Try to fight all 8 of them\r\n2) Evade and run from them\r\n3) Surrender
-    peacefully. You know there's no way you could get out of this."
+    peacefully. You know there's no way you could get out of this.\n4) Dance."
+  nextStates:
+  - {fileID: 11400000, guid: 8069c55813eb90844bd626fe9f1576d9, type: 2}
+  - {fileID: 11400000, guid: 1bab11c06b71cce498e0c344d2a8c360, type: 2}
+  - {fileID: 11400000, guid: 21643aec9cecdde4f8f36328b62f2042, type: 2}
+  - {fileID: 11400000, guid: 0b49a6dcb9959344db789f04b842985a, type: 2}
